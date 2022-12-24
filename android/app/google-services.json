@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1056178678210",
+    "project_id": "bekoo-d3ad0",
+    "storage_bucket": "bekoo-d3ad0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056178678210:android:bc8c77f252556e1c47ce5b",
+        "android_client_info": {
+          "package_name": "com.sinasys.e_commerce_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056178678210-r4a2cidqovi8el9kmmtkitl94stf5cpm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2iLO_zww0AVMbcdOeqkWPeeLYEszVSiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056178678210-r4a2cidqovi8el9kmmtkitl94stf5cpm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
